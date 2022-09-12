@@ -71,7 +71,10 @@ body.light-theme{
 }
 /* Reusable classes */
 
-/* Header */
+.header{
+    background-color: var(--secondary-background-color);
+    position: fixed;
+}
 
 /* Header JavaScript Styles */
 
