@@ -43,3 +43,4 @@ themeToggleBtn.addEventListener('click', () => {
     }
 });
 // Swiper
+const testVariable = "";
